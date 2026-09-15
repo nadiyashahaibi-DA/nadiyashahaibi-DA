@@ -96,7 +96,7 @@ Building portfolio projects that demonstrate:
 
 ## Let's Connect
 
-LinkedIn: [(https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BTzOcnykkRbyxp72n5Uvj8A%3D%3D#:~:text=www.-,linkedin,-.com/in/)]
+LinkedIn: [(https://www.linkedin.com/in/nadiya-al-shahaibi-da/)]
 
 Location: Lisbon, Portugal
 
