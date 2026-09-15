@@ -10,11 +10,11 @@
 
 👩‍💼 I am transitioning from a Executive Assistant career into Data Analytics and Technology.
 
-👩‍💻 I’m currently working on my Final Project
+👩‍💻 I am currently working on my Final Project
   
-🎓 Currently completing the Ironhack Data Analytics Bootcamp, where I worked with Python, SQL, Tableau, and data visualization tools to transform data into actionable insights.
+🎓 I am currently completing the Ironhack Data Analytics Bootcamp, where I worked with Python, SQL, Tableau, and data visualization tools to transform data into actionable insights.
 
-😀 I enjoy solving problems, creating structured solutions, and communicating complex information clearly.
+😀 I enjoy solving problems, creating structured solutions, and building storyline.
 
 ---
 
